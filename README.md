@@ -44,5 +44,5 @@ print(f"{s: .9f}")
 * Showcases Python’s precision formatting with f"{value: .9f}"
 * Great practice for math-related problem-solving and input parsing\
 
-# 👤 Author
+# 👨🏻‍🚀 Author
 Made with care by Koorosh Feel free to fork, star, or improve!
