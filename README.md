@@ -4,8 +4,10 @@ This Python script calculates the area of a triangle using **only its three side
 
 ## 🚀 What's Inside
 
-- Input: Three integers as side lengths
-- Logic:
+- Input :
+- Three integers as side lengths
+- 
+- Logic :
   1. Calculates the semi-perimeter `p = (a + b + c) / 2`
   2. Computes the area using Heron's formula
   3. Prints the result with **9-digit precision**
